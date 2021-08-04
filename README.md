@@ -1,2 +1,2 @@
-# alex1frolov.github.io
+# Александр Фролов
 MyProject
