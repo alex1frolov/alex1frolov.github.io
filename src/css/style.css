@@ -1,0 +1,511 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+.logo {
+    color: #fff;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+}
+
+.menu {
+    float: left;
+    padding-left: 432px;
+}
+
+.menu li {
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.main {
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/main/boy.png) 90% 100%/auto 85% no-repeat ,url(../img/main/fon.jpg) center/cover no-repeat;
+}
+
+.title_container {
+    float: left;
+    margin: 432px 0px 0px 404px;
+    color: #2c384a;
+    text-align: center;
+}
+
+.title_container h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.title_container h4{
+    margin-top: 30px;
+    font-size: 18px;
+    color: #79818d;
+}
+
+.title_container input {
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 58px 28px 0px 14px;
+}
+
+.inf_container {
+    width: 100%;
+    height: 608px;
+    background: url(../img/inf_container/zag.png) center 53px no-repeat ,url(../img/inf_container/foto.png) center 117px no-repeat;
+    margin-top: 108px;
+    color: #fcfdfd;
+}
+
+.inf {
+     float: left;
+}
+
+.inf_container h3 {
+    text-align: center;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #263244;
+    font-weight: bold;
+}
+
+.inf_container h5 {
+    text-align: center;
+    color: #3f495a;
+    font-size: 14px;
+} 
+
+.inf_text {
+    margin-top: 344px;
+}
+
+.inf_container input {
+    height: 34px;
+    border: 2px solid #6f707e;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 14px;
+    background: url(../img/inf_container/icon.png) 13px no-repeat; 
+    padding: 0px 13px 0px 34px;
+    margin: 37px 870px;
+}
+
+
+.inf2_container {
+    width: 100%;
+    height: 522px;
+    background: url(../img/inf2_container/zag.png) 925px 160px no-repeat, url(../img/inf2_container/fon.jpg) no-repeat;
+}
+
+.inf2 {
+    float: left;
+}
+
+
+.inf2_container h3 {
+    text-align: center;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #263244;
+    font-weight: bold;
+}
+
+
+.inf2 h3 {
+    float: left;
+    margin-top: 80px;
+    margin-left: 872px
+}
+
+.blocks_inf2 {
+    margin-left: 335px;
+    margin-top: 273px;
+}
+
+.block_inf2  {
+    float: left;
+    margin-left: 83px;
+    text-align: center;
+}
+
+.block_inf2 h5 {
+    text-align: 16px;
+    font-weight: bold;
+    margin-top: 40px;
+    color: #cf7600;
+}
+
+.block_inf2 h6 {
+    line-height: 20px;
+    margin-top: 21px;
+}
+
+.cases {
+    width: 100%;
+    height: 2000px;
+    background: url(../img/cases/bg.jpg) no-repeat ;
+}
+
+.cas {
+    float: left;
+    margin: 105px 0px 0px 390px;
+    background: url(../img/cases/zag.png) center 52px no-repeat;
+    width: 1169px;
+}
+
+.cas h3 {
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #384354;
+    font-weight: bold;
+    text-align: center;
+}
+
+.cas h6 {
+    margin-top: 74px;
+    margin-bottom: 41px;
+    text-align: center;
+}
+
+.website {
+    float: left;
+}
+
+.website img {
+    float: left;
+}
+
+.website h4 {
+    font-size: 22px;
+    color: #384354;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.website h5 {
+    color: #384354;
+    font-size: 14px;
+    margin-top: 15px
+}
+
+.website input {
+    height: 44px;
+    width: 201px;
+    border-radius: 4px;
+    background-color: #63b5ae;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.box1 {
+    float: left;
+    width: auto;
+}
+
+.webtext {
+    float: left;
+    margin-left: 83px;
+}
+.webtext h4{
+   font-size: 20px;
+   font-weight: bold;
+   color: #384354;
+   text-transform: none;
+}
+
+.webtext h5{
+    color: #384354;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.price {
+    float: left;
+    margin-top: 100px;
+    width: auto;
+    margin-left: 130px;
+    background: url(../img/cases/line.png) 0px 520px no-repeat;
+}
+
+.price h2 {
+    color: #1c2534;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.param {
+    float: left;
+    margin-top: 60px;
+}
+
+.param h4 { 
+    color: #1c2534;
+    font-size: 22px;
+    margin-bottom: 22px;
+}
+
+.param select {
+    margin-bottom: 50px;
+    width: 890px;
+    height: 57px;
+    font-size: 14px;
+    background-color: #eeeeee;
+    padding-left: 24px;
+    color: #737373;
+    font-weight: bold;
+}
+
+.itog {
+    float: left;
+    margin-left: 130px;
+    width: 100%;
+}
+
+.itog h4 {
+    color: #1c2534;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 23px;
+    margin-bottom: 18px;
+}
+
+.stat {
+    float: left;
+    width: 100%;
+    height: 498px;
+    background: url(../img/stat/zag.png) center 157px  no-repeat, url(../img/stat/bg.png) no-repeat;
+}
+
+.stat h2 {
+    margin-top: 103px;
+    text-align: center;
+    color: #323e4f;
+    font-size: 24px;
+    font-weight: bold;
+}
+.st_img {
+    float: left;
+    width: auto;
+    margin-left: 285px;
+}
+.stat_img {
+    float: left;
+    width: auto;
+    text-align: center;
+    margin-left: 155px;
+    margin-top: 105px;
+}
+
+.st_img img{
+    height: 52px;
+    width: auto;    
+}
+
+.st_img h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #323e4f;
+    margin-top: 32px;
+    margin-bottom: 30px;
+}
+
+.st_img h6 {
+    font-size: 12px;
+    color: #323e4f;
+}
+
+.reviews {
+    float: left;
+    height: 590px;
+    width: 100%;
+    background: url(../img/reviews/zag.png) center 160px no-repeat, url(../img/reviews/foto.png) center 230px no-repeat;
+}
+
+.reviews_text {
+    width: 100%;
+    float: left;
+    margin-top: 230px;
+    text-align: center;
+}
+
+.reviews h2 {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: #243042;
+    margin-top: 106px;
+}
+
+.reviews_text h4 {
+    color: #243042;
+}
+
+.reviews_text h3 {
+    margin-top: 38px;
+    margin-bottom: 51px;
+    color: #243042;
+}
+
+.footer {
+    float: left;
+    background: url(../img/footer/bg.png) no-repeat;
+    width: 100%;
+    height: 808px;
+}
+
+.contacts {
+    float: left;
+    width: 100%;
+    height: 330px;
+    background: url(../img/footer/zag.png) center 160px no-repeat;
+}
+
+.cont_text h2 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 105px;
+    margin-bottom: 70px;
+}
+
+.cont_text h5 {
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+.cont_text h4 {
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.cont{
+    float: left;
+    margin-top: 48px;
+    margin-left: 540px;
+}
+.cont_img{
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.cont_img img {
+    height: 23px;
+    width: auto;
+    margin-bottom: 14px;
+}
+
+.message {
+    float: left;
+    width: 100%;
+    margin-top: 41px;
+}
+
+.message h2 {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 46px;
+}
+
+.inp {
+    margin-left: 595px;
+    height: 142px;
+}
+
+.name_email{
+    float: left;
+}
+
+.name_email input {
+    height: 34px;
+    width: 352px;
+    margin-right: 29px;
+    margin-bottom: 14px;
+    padding-left: 13px;
+    color: #5d5d5e;
+    background-color: #d2d6dc;
+    font-weight: bold;
+    font-size: 14px
+}
+
+.text_message textarea {
+    width: 733px;
+    height: 94px;
+    color: #5d5d5e;
+    background-color: #d2d6dc;
+    font-weight: bold;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-top: 12px;
+}
+
+.send {
+    text-align: center;
+    margin-top: 28px;
+}
+
+.send input {
+    background: none;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    padding: 14px 16px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.socialmedia {
+    float: left;
+    width: auto;
+    margin-left: 752px;
+    margin-top: 34px;    
+}
+
+.socialmedia img {
+    margin-right: 50px;
+}
+
+.map img {
+    height: 330px;
+    width: 100%;
+}
+
+.foot {
+    float: left;
+    height: 96px;
+    width: 100%;
+    background-color: #354051;
+
+}
+
+.foot h6 {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 41px;
+    font-size: 12px;
+}
+
